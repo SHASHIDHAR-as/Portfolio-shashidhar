@@ -13,7 +13,7 @@ function Footer() {
         <a href="https://www.linkedin.com/in/shashidhar-as-1a7a94203/"><LinkedInIcon /></a>
         <a href="https://twitter.com/As_Shashidhar"><TwitterIcon /></a>
       </div>
-      <p> &copy; 2023 shashidhar koundinya</p>
+      <p> &copy; 2023 shashidhar koundinyaa</p>
     </div>
   );
 }
